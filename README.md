@@ -1,5 +1,6 @@
-# Internal Documentation Repository
+# Archived docs
 
+Deprecated or retired documentation can be stored here for reference.
 Made wholly by CoPilot.
 Prompt: create an internal documentation repository structure
 

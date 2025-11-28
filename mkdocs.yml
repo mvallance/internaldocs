@@ -1,0 +1,20 @@
+site_name: Internal Documentation
+site_description: Internal engineering and operations documentation
+nav:
+  - Home: index.md
+  - Architecture:
+    - Overview: architecture/overview.md
+  - Processes:
+    - Onboarding: processes/onboarding.md
+    - Release: processes/release.md
+  - Operations:
+    - Incident Response: ops/incident_response.md
+  - Handbook:
+    - Team Contacts: handbook/team_contacts.md
+  - Templates:
+    - Meeting Notes: templates/meeting_notes.md
+    - Decision Log: templates/decision_log.md
+theme:
+  name: material
+repo_url: https://github.com/your-org/internal-docs
+plugins: []

@@ -1,5 +1,8 @@
 # Internal Documentation Repository
 
+Made wholly by CoPilot.
+Prompt: create an internal documentation repository structure
+
 This repository houses our team's internal documentation: architecture notes, processes, runbooks, onboarding, and templates.
 
 Primary goals:
